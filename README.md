@@ -1,2 +1,2 @@
 # Reto_07
-Desarrolo del reto 7
+El desarrollo del reto se encuentra en el notebook adjunto
